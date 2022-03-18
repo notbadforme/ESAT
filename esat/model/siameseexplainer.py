@@ -2,7 +2,7 @@ import torch
 import utils.explainer_utils as util
 import torch.nn as nn
 import torch.nn.functional as F
-from featurepvt import conViT
+from esat import cv
 from nystrom_attention import Nystromformer
 from torch import optim
 from torch.autograd import Variable
