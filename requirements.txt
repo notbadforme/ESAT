@@ -1,1 +1,8 @@
-
+torch
+nystrom_attention
+einops
+numpy
+PIL
+lifelines
+apex
+pandas
