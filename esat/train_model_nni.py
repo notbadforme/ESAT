@@ -1,7 +1,7 @@
 import numpy as np
 import argparse
 import torch
-from model import surv_model
+from model.survmodel import surv_model
 from torch.utils.data import DataLoader, Dataset
 import random
 import os
